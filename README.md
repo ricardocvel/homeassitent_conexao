@@ -1,0 +1,1 @@
+# homeassitent_conexao
